@@ -282,7 +282,7 @@ hr {
 }
 
 .logo-wrapper {
-  background: url(../images/logo.jpeg) no-repeat;
+  background: url(../images/logoc.png) no-repeat;
   height: 100px;
   background-position:15px;
 }
@@ -293,16 +293,16 @@ hr {
   line-height: 100px;
   text-transform: uppercase;
   color: #006400;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
 }
 
 .main-menu ul li {
   display: inline-block;
-  margin:0 15px;
+  margin: 0 20px;
 }
 .main-menu ul li:last-child {
-  margin-right: 10px;
+  margin-right: 35px;
 }
 .main-menu ul li a {
   text-transform: uppercase;
@@ -323,8 +323,8 @@ hr {
   margin-top: 33px;
   margin-right: 30px;
   text-align: center;
-  line-height: 30px;
-  font-size: 20px;
+  line-height: 36px;
+  font-size: 14px;
   background: white;
   display: inline-block;
   color: darkgreen;
@@ -681,13 +681,13 @@ hr {
   color: white;
   display: inline-block;
   padding-bottom: 10px;
-  border-bottom: 1px solid white;
+  border-bottom: 3px solid white;
   margin-top: 64px;
 }
 .team-member .member-thumb .team-overlay span {
   text-transform: uppercase;
-  font-weight: 300;
-  margin-top: 10px;
+  font-weight:500;
+  margin-top: 30px;
   display: block;
 }
 .team-member .member-thumb .team-overlay ul.social {
@@ -702,7 +702,7 @@ hr {
   height: 36px;
   background-color: white;
   line-height: 40px;
-  color: #ec523f;
+  color: darkgreen;
   border-radius: 18px;
   -webkit-border-radius: 18px;
   -moz-border-radius: 18px;
@@ -740,20 +740,20 @@ hr {
   padding-left: 15px;
   text-transform: uppercase;
   font-weight: 700;
-  background-color: #ec523f;
+  background-color: darkgreen;
   box-shadow: none;
 }
 
 .googlemap-wrapper {
-  height: 380px;
+  height: 318px;
   margin-bottom: 40px;
 }
 
 .map-canvas {
-  height: 380px;
+  height: 338px;
+  width: 740px;
   border: 10px solid #efefef;
 }
-
 .contact-info {
   margin-top: 40px;
 }
