@@ -745,14 +745,14 @@ hr {
 }
 
 .googlemap-wrapper {
-  height: 318px;
-  width: 720px;
+  height: 279px;
+
   margin-bottom: 40px;
 }
 
 .map-canvas {
-  height: 338px;
-  width: 740px;
+  height: 299px;
+  width: 584px;
   border: 10px solid #efefef;
 }
 .contact-info {
